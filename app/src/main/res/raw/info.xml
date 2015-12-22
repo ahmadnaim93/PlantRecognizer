@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <id>1</id>
+        <name>Margherita</name>
+        <cost>155</cost>
+        <description>Single cheese topping</description>
+    </item>
+    <item>
+        <id>2</id>
+        <name>Double Cheese Margherita</name>
+        <cost>225</cost>
+        <description>Loaded with Extra Cheese</description>
+    </item>
+    <item>
+        <id>3</id>
+        <name>Fresh Veggie</name>
+        <cost>110</cost>
+        <description>Oninon and Crisp capsicum</description>
+    </item>
+    <item>
+        <id>4</id>
+        <name>Peppy Paneer</name>
+        <cost>155</cost>
+        <description>Paneer, Crisp capsicum and Red pepper</description>
+    </item>
+    <item>
+        <id>5</id>
+        <name>Mexican Green Wave</name>
+        <cost>445</cost>
+        <description>Onion, Crip capsicum, Tomato with mexican herb</description>
+    </item>
+</menu>

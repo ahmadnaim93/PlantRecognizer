@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Plant Recognizer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="imgAnswer" />
+    <string name="txtAnswer">Tap here to start</string>
+    <string name="homeAnswer">Home</string>
+    <string name="txtAnswerHome">Home</string>
+</resources>
