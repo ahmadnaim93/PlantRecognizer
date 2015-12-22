@@ -1,2 +1,2 @@
 # PlantRecognizer
-Image recognition application for android playform.
+Image recognition application for android platform.
